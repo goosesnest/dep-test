@@ -19556,10 +19556,10 @@ react-scroll-sync@^0.8.0:
   resolved "https://registry.yarnpkg.com/react-scroll-sync/-/react-scroll-sync-0.8.0.tgz#61fabed2afc47d41e6938819d620799da3610548"
   integrity sha512-Ms9srm41UM+lWexuqdocXjqaqqt6ZRSFxcudgB0sYhC7Or+m12WemTwY8BaQCRf7hA8zHDk55FHvMkqsH7gF+w==
 
-react-select-virtualized@^2.5.3:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/react-select-virtualized/-/react-select-virtualized-2.5.3.tgz#c5b24b03a60328003923403e56477c61105859a3"
-  integrity sha512-9Hk1bjnDo9KZwXtLSRTDcK0l+tPR3cVv/Zlrv4++EtW3VIz/7pHAd8qnfcp3stnbjW40bW/VL/PvFoQtX6BqJA==
+react-select-virtualized@^2.5.11:
+  version "2.5.11"
+  resolved "https://registry.yarnpkg.com/react-select-virtualized/-/react-select-virtualized-2.5.11.tgz#b29374cf821138f2503a76ac37f793ae4108311f"
+  integrity sha512-crHuEvTOnB7O2L8BxkNftmUcPvulzBzrY0mEbOdKTV6VPDo5msgGl7APXK2EKtus++yBID7hhNHgYy0gYAZXgg==
   dependencies:
     lodash.debounce "4.0.8"
 
