@@ -29,7 +29,7 @@
     "gatsby-plugin-force-trailing-slashes": "^1.0.4",
     "gatsby-plugin-google-tagmanager": "^2.3.11",
     "gatsby-plugin-hotjar": "^1.0.1",
-    "gatsby-plugin-netlify": "^2.0.6",
+    "gatsby-plugin-netlify": "^2.3.13",
     "gatsby-plugin-netlify-cms": "^4.3.11",
     "gatsby-plugin-notify": "^1.0.0",
     "gatsby-plugin-react-helmet": "^3.3.10",
