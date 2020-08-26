@@ -52,7 +52,7 @@
     "gatsby-source-filesystem": "^2.3.25",
     "gatsby-transformer-remark": "^2.8.29",
     "gatsby-transformer-sharp": "^2.5.13",
-    "iframe-resizer": "^4.2.10",
+    "iframe-resizer": "^4.2.11",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.4",
     "mapbox-gl": "^1.8.1",
