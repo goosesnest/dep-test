@@ -43,7 +43,7 @@
     "gatsby-plugin-stylelint": "^3.2.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-react-router-scroll": "^3.0.12",
-    "gatsby-remark-autolink-headers": "^2.1.24",
+    "gatsby-remark-autolink-headers": "^2.3.11",
     "gatsby-remark-copy-linked-files": "^2.0.7",
     "gatsby-remark-external-links": "^0.0.4",
     "gatsby-remark-images": "^3.1.6",
