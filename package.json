@@ -89,6 +89,7 @@
     "stylelint-processor-styled-components": "^1.9.0",
     "stylelint-webpack-plugin": "^2.1.0",
     "stylelint-scss": "^3.18.0",
+    "stylelint-webpack-plugin": "^2.1.0",
     "uuid": "^8.2.0"
   },
   "keywords": [
