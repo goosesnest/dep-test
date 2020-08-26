@@ -83,7 +83,7 @@
     "slugify": "^1.4.5",
     "smoothscroll-polyfill": "^0.4.4",
     "styled-components": "^5.1.1",
-    "stylelint": "^13.0.0",
+    "stylelint": "^13.6.1",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-order": "^4.1.0",
     "stylelint-processor-styled-components": "^1.9.0",
