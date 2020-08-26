@@ -129,7 +129,7 @@
     "@testing-library/cypress": "^5.3.0",
     "axe-core": "^3.5.2",
     "babel-jest": "^26.3.0",
-    "babel-preset-gatsby": "^0.2.29",
+    "babel-preset-gatsby": "^0.5.6",
     "cypress": "^4.12.1",
     "cypress-axe": "^0.8.1",
     "dotenv-webpack": "^2.0.0",
