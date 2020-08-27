@@ -49,7 +49,7 @@
     "gatsby-remark-images": "^3.3.26",
     "gatsby-remark-relative-images": "^0.2.1",
     "gatsby-source-custom-api": "^2.1.3",
-    "gatsby-source-filesystem": "^2.3.25",
+    "gatsby-source-filesystem": "^2.3.26",
     "gatsby-transformer-remark": "^2.8.29",
     "gatsby-transformer-sharp": "^2.5.13",
     "iframe-resizer": "^4.2.11",
