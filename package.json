@@ -143,7 +143,7 @@
     "eslint-plugin-react": "^7.20.6",
     "husky": "^4.2.5",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^25.1.0",
+    "jest": "^26.4.2",
     "prettier": "^2.1.0",
     "react-test-renderer": "^16.12.0",
     "start-server-and-test": "^1.11.3",
