@@ -124,7 +124,7 @@
     "@storybook/addon-a11y": "^5.3.12",
     "@storybook/addon-actions": "^5.3.12",
     "@storybook/addon-docs": "^5.3.12",
-    "@storybook/addon-essentials": "^5.3.12",
+    "@storybook/addon-essentials": "^6.0.20",
     "@storybook/addon-storysource": "^5.3.12",
     "@storybook/react": "^5.3.12",
     "@testing-library/cypress": "^5.3.0",
