@@ -3,6 +3,6 @@
   "description": "Testing Dependabot",
   "version": "0.1.0",
   "dependencies": {
-    "jsonwebtoken": "^4.2.1"
+    "jsonwebtoken": "^5.0.0"
   }
 }
