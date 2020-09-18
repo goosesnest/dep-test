@@ -1,8 +1,0 @@
-{
-  "name": "dependency-testng",
-  "description": "Testing Dependabot",
-  "version": "0.1.0",
-  "dependencies": {
-    "jsonwebtoken": "^8.5.1"
-  }
-}
